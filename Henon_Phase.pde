@@ -1,7 +1,6 @@
 // number of points to draw in each iteration
 float scale = 2;      // scale the visualization to match the applet size
 float a = random(TWO_PI);
-int cnt;
 int maxnum = 5000;
 
 TravelerHenon[] travelers = new TravelerHenon[maxnum];
