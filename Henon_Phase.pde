@@ -23,7 +23,7 @@ void newHenon() {
 
 void setup()
 {
-  size(1000, 1000);
+  size(1000, 1000,P2D);
   pixelDensity(2);
   
   background(0);
